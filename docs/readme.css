@@ -1,7 +1,7 @@
 
 body::before{
     content: "";
-    background: url('/pictures/Background.jpg') no-repeat center center/cover;
+    background: url('Background.jpg') no-repeat center center/cover;
     position: absolute;
     height: 250%;
     width: 100%;
